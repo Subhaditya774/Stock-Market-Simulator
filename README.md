@@ -1,4 +1,4 @@
-# 💹  Stock Marktet Simulator Platform  
+# 💹  Stock Market Simulator Platform  
 
 An Intelligent FinTech Simulation System for Real-Time Stock Trading Built with **React, Spring Boot, and MySQL**  
 
